@@ -1,1 +1,1 @@
-/dev/tty.wchusbserialfa610
+/dev/tty.wchusbserial5d10
